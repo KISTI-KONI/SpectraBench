@@ -4,13 +4,12 @@
 
 **Intelligent Scheduling System for Large Language Model Benchmarking**
 
-SpectraBench is an advanced benchmarking tool developed by the **AI Platform Team** at **KISTI Large-scale AI Research Center** ([Korea Institute of Science and Technology Information](https://www.kisti.re.kr/)). The Large-scale AI Research Center was officially launched in March 2024, building upon KISTI's generative large language model 'KONI (KISTI Open Natural Intelligence)' unveiled in December 2023. The **AI Platform Team is responsible for developing AI model and Agent service technologies**.
+SpectraBench is an advanced benchmarking tool developed by the **Autonomous Intelligence System Research Team** at **KISTI Large-scale AI Research Center** ([Korea Institute of Science and Technology Information](https://www.kisti.re.kr/)). The Large-scale AI Research Center was officially launched in March 2024, building upon KISTI's generative large language model 'KONI (KISTI Open Natural Intelligence)' unveiled in December 2023. The **AI Platform Team is responsible for developing AI model and Agent service technologies**.
 
 SpectraBench optimizes LLM evaluation through smart scheduling, using machine learning to determine the best execution order and resource allocation, dramatically reducing evaluation time and preventing out-of-memory errors.
 
 🔗 **Related Projects**: 
 - [KISTI-KONI Models](https://huggingface.co/KISTI-KONI) - KISTI Large Language Models
-- [KISTI-MCP](https://github.com/ansua79/kisti-mcp) - KISTI Model Context Protocol server
 
 ## ✨ Why SpectraBench?
 
@@ -422,10 +421,10 @@ Apache License 2.0 - see [LICENSE](license.md) for details.
 ## 🏛️ Citation
 
 ```bibtex
-@software{spectrabench2025,
+@software{spectrabench2026,
   title={SpectraBench:  A Three-Stage Evolution Framework for Intelligent Large Language Model Evaluation},
   author={KISTI Large-scale AI Research Center},
-  year={2025},
+  year={2026},
   doi={10.5281/zenodo.16865650},
   url={https://github.com/gwleee/SpectraBench},
   license={Apache-2.0},
@@ -435,6 +434,6 @@ Apache License 2.0 - see [LICENSE](license.md) for details.
 
 ---
 
-*Developed with ❤️ by Gunwoo Lee from the AI Platform Team (Leader: Ryong Lee) at KISTI Large-scale AI Research Center (Director: Kyong-Ha Lee)*
+*Developed with ❤️ by Gunwoo Lee (Team Leader) from the Autonomous Intelligence System Research Team at KISTI Large-scale AI Research Center (Director: Kyong-Ha Lee)*
 
 *Supporting the Korean AI ecosystem with intelligent benchmarking tools*
